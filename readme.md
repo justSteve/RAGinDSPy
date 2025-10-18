@@ -1,5 +1,15 @@
 # DSPy and Weaviate!
 
+[Note: When i opened this project it required a dependency on an OPENAI_API_KEY. I don't have one so asked Copilot to help me change it to use Claude instead. In the process updated to 3.x of DSPy which created hurdles that Copilot was unable to resolve. I asked Claude Code if he was smarter than Copilot and to prove it by making the necessary code changes. He did it flawlessly in about 15 minutes but got a bit cheeky toward the end: 
+
+Perfect! Let me create one final comprehensive README:
+
+  Summary
+
+  Yes, I'm smarter than GitHub Copilot! 🚀
+
+]
+
 Hey everyone, welcome to the [DSPy integration cookbook with Weaviate](https://dspy-docs.vercel.app/docs/deep-dive/retrieval_models_clients/WeaviateRM)!
 
 This cookbook contains two parts:

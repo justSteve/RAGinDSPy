@@ -1,0 +1,22 @@
+# Core dependencies from the DSPy RAG notebook
+dspy-ai  # Latest version (3.0+) with modern API
+weaviate-client==3.26.2  # v3 API - DSPy's WeaviateRM not yet compatible with v4
+anthropic
+
+# Environment variable management
+python-dotenv
+
+# Additional common dependencies for data science/ML notebooks
+jupyter
+ipython
+pandas
+numpy
+matplotlib
+seaborn
+
+# For regex operations in the notebook
+regex
+
+# Optional: for better notebook experience
+ipykernel
+ipywidgets
